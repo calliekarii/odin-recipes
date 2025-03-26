@@ -1,0 +1,1 @@
+This is my very first HTML project as part of The Odin Project Foundations course. I will be sharing some of my grandma's christmas cookie recipes.
