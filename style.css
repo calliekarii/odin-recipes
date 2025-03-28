@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: floralwhite;
+    font-size: medium;
+}
+
+a {
+    color: tomato;
+}
+
+h1, h2 {
+    color: darkseagreen;
+    font-size: large;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: x-large;
+}
+
+img {
+    height: 400px;
+}
